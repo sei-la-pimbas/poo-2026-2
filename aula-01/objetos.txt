@@ -1,0 +1,19 @@
+1: comidas
+
+caracteristicas: salgadas, doces, sem gosto
+
+comportamentos: apodrecimento e congelar
+
+
+2: tempo
+
+caracteristicas: presente, passado, futuro
+
+comportamento: passa, pular
+
+
+3: tv
+
+caracteristicas: controle, tamanho, qualidade
+
+comportamentos: ligar, desligar
